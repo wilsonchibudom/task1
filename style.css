@@ -55,6 +55,7 @@ body {
 .contact{
     width: 80%;
     margin: 5% ;
+    color: white;
 
 }
 .contact-box{
@@ -113,4 +114,20 @@ label{
     height: 30px;
     border-radius: 30px;
     margin-top: 20px;
+}
+.contact-left h3{
+    color: brown;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.contact-right h3{
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+tr rd:first-child{
+    padding-right: 30px;
+    justify-content: right;
+}
+tr rd{
+    padding-top: 30px;
 }
